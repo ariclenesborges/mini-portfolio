@@ -6,7 +6,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    font-family: 'VT323, monoespace';
+    font-family: 'VT323, monospace';
     font-size: 18px;
     color: #f3f3f3;
     display: flex;
@@ -45,7 +45,6 @@ body {
     color: #b8bbc5;
 }
 .cartão .conteudo {
- 
     margin-top: 15px;
 }
 .cartão .abas {
@@ -65,7 +64,7 @@ body {
 .cartão .abas .aba.selecionado {
     background-color: #262626;
 }
-.cartão .informação {
+.cartão .informações-abas {
     background-color: #262626;
 } 
 .cartão .abas .aba:hover {
