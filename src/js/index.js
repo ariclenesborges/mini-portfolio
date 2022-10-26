@@ -41,7 +41,9 @@ function selecionarAba(aba) {
 function mostrarInformacoesDaAba(aba){
     const informacaoSelecionada = document.querySelector(".informacao.selecionado");
     informacaoSelecionada.classList.remove("selecionado");
+
     const idDoElementoDeInformacoesDaAba = `informacao-${aba.id}`
+
     const informacaoASerMostrada = document.getElementById(idDoElementoDeInformacoesDaAba)
     informacaoASerMostrada.classList.add("selecionado")
 }
