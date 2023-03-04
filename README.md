@@ -4,7 +4,7 @@
 
 > Mapa Dev Em Dobro
 
-[clique aqui para acessar](https://ariclenesborges.github.io/projeto-android/)
+[clique aqui para acessar](https://ariclenesborges.github.io/mini-portfolio/)
 
 
 
