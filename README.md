@@ -1,4 +1,4 @@
-# projeto android - Curso em Vídeo
+# Mini portfólio 
                       
 ![preview](src/imagens/Portfólio.png)
 
